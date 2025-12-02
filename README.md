@@ -11,7 +11,7 @@ My foundation in hardware and mathematics is relatively weak, and I like using C
 在嵌入式上我喜欢使用KICAD，更加倾向于ARM-GCC和RISCV-GCC以及CMAKE构建，而不是KEIL或者其他IDE，这可能会带来一点难度。  
 我在硬件和数学上的基础比较差，我喜欢使用C++20。另外我可能不太熟悉各种许可证，如果有任何侵权问题，请及时提醒我，谢谢。  
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=a5632645&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a5632645&layout=compact&theme=transparent)
+#### mainly used
+c, c++, python, cmake, mathematica, vscode, zed
+#### tried
+rust, zig
