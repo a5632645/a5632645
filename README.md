@@ -10,5 +10,3 @@ I am interested in digital signal processing and enjoy making hardware or softwa
 
 #### mainly used
 c, c++, python, cmake, mathematica, vscode, zed
-#### tried
-rust, zig
