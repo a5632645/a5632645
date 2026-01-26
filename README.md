@@ -10,3 +10,7 @@ I am interested in digital signal processing and enjoy making hardware or softwa
 
 #### mainly used
 c, c++, python, cmake, mathematica, vscode, zed
+
+
+### news
+my plugins have been move to [L-Model Team](https://github.com/L-MODEL-TEST)
