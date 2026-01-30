@@ -13,4 +13,5 @@ c, c++, python, cmake, mathematica, vscode, zed
 
 
 ### news
-my plugins have been move to [L-Model Team](https://github.com/L-MODEL-TEST)
+my plugins have been move to [ManasWolrd](https://github.com/ManasWolrd)  
+kawaii alice mana (ﾉ*･ω･)ﾉ
