@@ -8,10 +8,15 @@ I am interested in digital signal processing and enjoy making hardware or softwa
 我使用KICAD，ARM-GCC和RISCV-GCC以及CMAKE构建。
 我使用C++20，不太熟悉各种许可证，如果有任何侵权问题，请及时提醒我，谢谢。  
 
-#### mainly used
+#### 主要使用/mainly used
 c, c++, python, cmake, mathematica, vscode, zed
 
+### 最近活动/recent activity
+学习随机信号处理  
+learning Stochastic Signal Processing  
 
-### news
+good ibook: https://socratic-software.github.io/stochastica/Chap_1.html  
+
+### 新闻(旧)/news
 my plugins have been move to [ManasWolrd](https://github.com/ManasWolrd)  
 kawaii alice mana (ﾉ*･ω･)ﾉ
