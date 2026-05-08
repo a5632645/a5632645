@@ -17,6 +17,10 @@ learning Stochastic Signal Processing
 
 good ibook: https://socratic-software.github.io/stochastica/Chap_1.html  
 
+---
+开发rk2118  
+write program on rk2118 chip  
+
 ### 新闻(旧)/news
 my plugins have been move to [ManasWolrd](https://github.com/ManasWolrd)  
 kawaii alice mana (ﾉ*･ω･)ﾉ
