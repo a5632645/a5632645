@@ -15,7 +15,7 @@ c, c++, python, cmake, mathematica, vscode
 #### AI  
 github copilot extension  
 deepseek v4 flash api, gpt-5.5 api  
-gemini 3.1 flash web, chatgpt web
+gemini 3.5 flash web, chatgpt web
 
 ---
 
