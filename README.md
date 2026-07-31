@@ -14,8 +14,8 @@ I am interested in digital signal processing and enjoy making hardware or softwa
 c, c++, python, cmake, mathematica, vscode
 #### AI  
 github copilot extension  
-deepseek v4 flash api, gpt-5.5 api  
-gemini 3.5 flash web, chatgpt web
+deepseek v4 flash api, gpt-5.6 sol api  
+gemini 3.6 flash web, chatgpt web
 
 ---
 
