@@ -11,11 +11,7 @@ I am interested in digital signal processing and enjoy making hardware or softwa
 ---
 
 ### 主要使用/mainly used
-c, c++, python, cmake, mathematica, vscode
-#### AI  
-github copilot extension  
-deepseek v4 flash api, gpt-5.6 sol api  
-gemini 3.6 flash web, chatgpt web
+c, c++, python, cmake, mathematica, vscode, oh-my-pi
 
 ---
 
